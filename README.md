@@ -1,4 +1,4 @@
-# AdminFun-Plug-in-Chinese-version
+# AdminFun-Plug-in-汉化
 管理员逗人这个插件ai汉化
  
 因为是机翻所以有些汉化特别长指令很长
