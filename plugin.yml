@@ -2,7 +2,7 @@ name: AdminFun
 main: AdminFun\AdminFun
 api: ["1.12.0"]
 version: 0.1#dev56
-author: hoyinm14mc
+author: hoyinm14mc(原作者) Liuhh&DeepSeek汉化
 
 commands:
   adminfun:
